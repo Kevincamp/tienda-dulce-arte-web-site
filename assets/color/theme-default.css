@@ -1,12 +1,21 @@
 /*!
 Author       : Bestwebcreator.
 Template Name: Organiq - Organic Food HTML Template
-Version      : 1.0
+Version      : 2.0 - Dulce Arte Brand Update
+*/
+
+/* === PALETA DULCE ARTE (alineada con CookWorking App) ===
+   Brand Rose:       #E59198
+   Brand Rose Hover: #CE6D75
+   Brand Teal:       #52A593
+   Brand Cream:      #FCEFDA
+   Brand Dark:       #1A1A1A
+   Brand Light:      #FFFAF3
 */
 
 a:hover,
-.header_list > li .dropdown-item:hover, 
-.custome_dropdown .ddChild li:hover, 
+.header_list > li .dropdown-item:hover,
+.custome_dropdown .ddChild li:hover,
 .contact_detail > li a:hover,
 .navbar .navbar-nav > li > a.active,
 .navbar .navbar-nav > li:hover > a,
@@ -14,33 +23,33 @@ a:hover,
 .dark_skin .navbar .navbar-nav .dropdown-menu li a.active, .dark_skin .navbar .navbar-nav .dropdown-menu li a:hover, .dark_skin .navbar .navbar-nav .dropdown-menu > ul > li:hover > a, .dark_skin .navbar .navbar-nav .dropdown-menu > ul > .mega-menu-col ul > li:hover > a,
 .cart_total .cart_amount,
 .banner_text a,
-.nav-tabs .nav-link:hover, 
-.nav-tabs .nav-link.active, 
+.nav-tabs .nav-link:hover,
+.nav-tabs .nav-link.active,
 .nav-tabs .nav-link.active:hover,
 .price,.blog_meta li a:hover,
 .testi_user span, .author_intro span,
 .contact_info li span,
-.footer_link li a:hover, 
-.widget_links li a:hover, 
+.footer_link li a:hover,
+.widget_links li a:hover,
 .contact_info li a:hover,
 .icon_box_style2 .box_icon i,
 .sub_heading,
-.footer_dark .widget_links li a:hover, 
-.footer_dark .footer_link li a:hover, 
-.footer_dark .post_content h6 a:hover, 
+.footer_dark .widget_links li a:hover,
+.footer_dark .footer_link li a:hover,
+.footer_dark .post_content h6 a:hover,
 .footer_dark .contact_info a:hover,
 .ripple,.team_title span,
 .widget_categories a:hover,
 .login_footer a:hover,
 .link_container a,
 .list_style_2 li::before {
-	color: #07d765;
+	color: #E59198;
 }
 
 .btn-white,
 .btn-outline-default,
 .text_default {
-	color: #07d765 !important;
+	color: #E59198 !important;
 }
 
 .line-scale .line,
@@ -51,9 +60,9 @@ a:hover,
 .icon_box_style1 .box_icon,
 .pr_action_btn li a,
 .mfp-wrap button.mfp-close,
-.quantity .minus:hover, 
+.quantity .minus:hover,
 .quantity .plus:hover,
-.border_social .social_icons li a:hover, 
+.border_social .social_icons li a:hover,
 .border_social.social_icons li a:hover,
 .cart_btn .add_wishlist:hover,
 .owl-theme .owl-nav [class*="owl-"],
@@ -74,17 +83,17 @@ a:hover,
 .pricing_ribbon,
 .progress_content .progress-bar,
 .contact_info.contact_info_style2 li span {
-	background-color: #07d765;
+	background-color: #E59198;
 }
 
 .bg_default {
-    background-color: #07d765 !important;
+    background-color: #E59198 !important;
 }
 
 .btn-default,
 .btn-default.btn-borderd::before,
 .btn-outline-default,
-.icon_box_style1 .box_icon::before, 
+.icon_box_style1 .box_icon::before,
 .icon_box_style3 .box_icon::before,
 .icon_box_style1:hover,
 .border_social .social_icons li a:hover,
@@ -98,47 +107,240 @@ a:hover,
 .custome-radio input[type="radio"]:checked + .form-check-label::before,
 .owl-theme .owl-dots .owl-dot span,
 .contact_info.contact_info_style2 li span::after {
-	border-color: #07d765;
+	border-color: #E59198;
 }
 
 .blog_date.style2::before {
-	border-color: #07d765 transparent transparent transparent;
+	border-color: #E59198 transparent transparent transparent;
 }
 
 .btn-default:hover, .btn-default.focus, .btn-default:focus,
 .owl-theme .owl-nav [class*="owl-"]:hover {
-	background-color: #00a735;
+	background-color: #CE6D75;
 }
 
 .btn-default:hover, .btn-default.focus, .btn-default:focus,
 .btn-default.btn-borderd:hover::before {
-	border-color: #00a735;
+	border-color: #CE6D75;
 }
 
 .overlay_bg_default_90:before {
-	background-color: rgba(7, 215, 101, 0.90);
+	background-color: rgba(229, 145, 152, 0.90);
 }
 .overlay_bg_default_80:before {
-	background-color: rgba(7, 215, 101, 0.80);
+	background-color: rgba(229, 145, 152, 0.80);
 }
 .overlay_bg_default_70:before {
-	background-color: rgba(7, 215, 101, 0.70);
+	background-color: rgba(229, 145, 152, 0.70);
 }
 .overlay_bg_default_60:before {
-	background-color: rgba(7, 215, 101, 0.60);
+	background-color: rgba(229, 145, 152, 0.60);
 }
 .overlay_bg_default_50:before {
-	background-color: rgba(7, 215, 101, 0.50);
+	background-color: rgba(229, 145, 152, 0.50);
 }
 .overlay_bg_default_40:before {
-	background-color: rgba(7, 215, 101, 0.40);
+	background-color: rgba(229, 145, 152, 0.40);
 }
 .overlay_bg_default_30:before {
-	background-color: rgba(7, 215, 101, 0.30);
+	background-color: rgba(229, 145, 152, 0.30);
 }
 .overlay_bg_default_20:before {
-	background-color: rgba(7, 215, 101, 0.20);
+	background-color: rgba(229, 145, 152, 0.20);
 }
 .overlay_bg_default_10:before {
-	background-color: rgba(7, 215, 101, 0.10);
+	background-color: rgba(229, 145, 152, 0.10);
+}
+
+/* === ESTILOS CUSTOM DULCE ARTE === */
+
+/* Sección visión / pilares */
+.da-pillar-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 36px 28px;
+  margin-bottom: 24px;
+  box-shadow: 0 4px 20px rgba(229,145,152,0.10);
+  transition: box-shadow 0.3s, transform 0.3s;
+  text-align: center;
+  border-top: 4px solid transparent;
+}
+.da-pillar-card:hover {
+  box-shadow: 0 8px 32px rgba(229,145,152,0.18);
+  transform: translateY(-4px);
+}
+.da-pillar-card.tienda { border-top-color: #E59198; }
+.da-pillar-card.taller { border-top-color: #52A593; }
+.da-pillar-card.bookshop { border-top-color: #CE6D75; }
+.da-pillar-icon {
+  width: 72px;
+  height: 72px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 18px;
+  font-size: 30px;
+}
+.da-pillar-icon.tienda { background-color: #FAE8EA; color: #E59198; }
+.da-pillar-icon.taller { background-color: #DFF0EC; color: #52A593; }
+.da-pillar-icon.bookshop { background-color: #FAE8EA; color: #CE6D75; }
+.da-badge {
+  display: inline-block;
+  padding: 4px 14px;
+  border-radius: 20px;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  margin-top: 10px;
+}
+.da-badge.disponible { background-color: #E59198; color: #fff; }
+.da-badge.cookworking { background-color: #52A593; color: #fff; }
+.da-badge.pronto { background-color: #F0DDBE; color: #1A1A1A; }
+
+/* Sección categorías */
+.da-cat-card {
+  background: #fff;
+  border-radius: 14px;
+  padding: 28px 20px;
+  margin-bottom: 24px;
+  text-align: center;
+  border: 1.5px solid #F0DDBE;
+  transition: border-color 0.3s, box-shadow 0.3s, transform 0.3s;
+}
+.da-cat-card:hover {
+  border-color: #E59198;
+  box-shadow: 0 6px 24px rgba(229,145,152,0.13);
+  transform: translateY(-3px);
+}
+.da-cat-icon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #FCEFDA;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 14px;
+  font-size: 24px;
+  color: #E59198;
+  transition: background-color 0.3s, color 0.3s;
+}
+.da-cat-card:hover .da-cat-icon {
+  background-color: #E59198;
+  color: #fff;
+}
+.da-cat-card h6 {
+  font-size: 14px;
+  font-weight: 600;
+  color: #1A1A1A;
+  margin-bottom: 6px;
+}
+.da-cat-card p {
+  font-size: 13px;
+  color: #636363;
+  margin: 0;
+}
+
+/* Sección CookWorking */
+.da-cookworking-section {
+  background: linear-gradient(135deg, #FCEFDA 0%, #FAE8EA 100%);
+  padding: 80px 0;
+}
+.da-cookworking-logo-wrap {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 20px;
+}
+.da-cw-tag {
+  display: inline-block;
+  background: #52A593;
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 12px;
+  border-radius: 20px;
+  letter-spacing: 1px;
+  margin-bottom: 14px;
+}
+.da-cookworking-section h2 {
+  font-family: 'Lobster Two', cursive;
+  color: #1A1A1A;
+  font-size: 36px;
+  margin-bottom: 16px;
+}
+.da-cookworking-section p {
+  color: #636363;
+  font-size: 15px;
+  line-height: 1.7;
+  margin-bottom: 12px;
+}
+.da-cw-features {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0 28px;
+}
+.da-cw-features li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #1A1A1A;
+}
+.da-cw-features li i {
+  color: #52A593;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+.btn-cookworking {
+  background-color: #52A593;
+  color: #fff;
+  border: none;
+  padding: 13px 32px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: background-color 0.25s, transform 0.2s;
+}
+.btn-cookworking:hover {
+  background-color: #3E8A79;
+  color: #fff;
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+.da-cw-visual {
+  background: #fff;
+  border-radius: 20px;
+  padding: 40px 30px;
+  box-shadow: 0 8px 40px rgba(82,165,147,0.15);
+  text-align: center;
+}
+.da-cw-stat {
+  padding: 20px 10px;
+  border-bottom: 1px solid #F0DDBE;
+}
+.da-cw-stat:last-child { border-bottom: none; }
+.da-cw-stat h3 {
+  font-family: 'Lobster Two', cursive;
+  font-size: 38px;
+  color: #52A593;
+  margin: 0;
+}
+.da-cw-stat p {
+  font-size: 13px;
+  color: #636363;
+  margin: 0;
+}
+
+/* Icon boxes FA override */
+.icon_box_style1 .box_icon i {
+  font-size: 28px;
+  color: #fff;
+  line-height: 1;
 }
